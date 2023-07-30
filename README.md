@@ -1,4 +1,4 @@
-# Kubernetes Objects README
+# Kubernetes Objects
 
 ## Overview
 This README provides an overview of Kubernetes objects, which are the fundamental building blocks in Kubernetes. Kubernetes objects represent various resources and functionalities within the cluster, such as managing containers, networking, storage, and more.
