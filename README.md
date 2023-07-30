@@ -276,3 +276,8 @@ spec:
 ```
 
 PersistentVolumeClaims are essential for dynamically provisioning and using storage resources in Kubernetes. They define the desired storage characteristics and allow Kubernetes to bind the appropriate PersistentVolume that matches the requested criteria.
+
+
+# Additional Information
+
+For more detailed information on Kubernetes objects and their usage, please refer to the official Kubernetes documentation: [Kubernetes Documentation](https://kubernetes.io/docs/concepts/overview/working-with-objects/).
